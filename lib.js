@@ -5,7 +5,7 @@ function palm() {
       console.log(logging);
     },
     alert:(alerting)=>{
-      alert("Palm Engine" + alerting);
+      alert(alerting);
     }
   }
 }
