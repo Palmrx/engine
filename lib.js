@@ -1,4 +1,4 @@
-function palm(eid) {
+function palm() {
   const engine =
   {
     log:(logging)=>{
