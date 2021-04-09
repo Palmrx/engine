@@ -1,5 +1,5 @@
 function palm() {
-  const engine =
+  const self =
   {
     log:(logging)=>{
       console.log(logging);
